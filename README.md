@@ -1,3 +1,11 @@
+npm i
+npm start
+
+React Router Dom - for React Routing
+React Hook Form - for Register Form
+Yup validation - for Form validation
+react slick - for Thumbnail Slider
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
